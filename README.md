@@ -43,7 +43,7 @@ dotnet build
 Ezután telepítsd a Chromium böngészőt:
 
 ```powershell
-pwsh bin\Debug\net8.0\playwright.ps1 install chromium
+pwsh bin\Debug\net10.0\playwright.ps1 install chromium
 ```
 
 ## FFmpeg telepítése
