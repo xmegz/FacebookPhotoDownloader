@@ -1,1 +1,0 @@
-dotnet run -- https://www.facebook.com/groups/646599282939314/media/photos c:\Projects\PadarCom\Picture\AranyJanosPlayscool\
